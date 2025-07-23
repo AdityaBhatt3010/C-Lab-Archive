@@ -1,0 +1,32 @@
+# 🧠 Compiled C binaries
+*.exe
+*.out
+*.o
+*.obj
+*.bin
+
+# 🔥 IDE & OS trash
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# 🐍 Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 🔒 Local scripts & input files
+input.txt
+input.pdf
+main.py
+
+# 🧪 Backup files
+*~
+*.bak
+*.swp
+
+# 🚫 Ignore extracted directory if needed (uncomment if pushing just README)
+# extracted_programs/
